@@ -27,4 +27,8 @@ dist-ssr
 .env.local*
 
 .env
+.env.production
 /node_modules
+
+# Database credentials
+.hold-the-plank-db-credentials
